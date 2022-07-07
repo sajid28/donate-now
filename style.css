@@ -157,7 +157,7 @@ text-align: justify;
 
 #email-input {
   display: flex;
-  background-color: rgb(247, 234, 218);
+  background-color: rgba(234, 137, 19, 0.246);
   width: 50%;
   margin-left: 25%;
   padding-top: 4%;
